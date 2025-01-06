@@ -15,7 +15,7 @@
 
 4. **Alternatively, View Live Dashboards on Tableau Public**:  
    - You can view the live dashboards online through Tableau Public. Click the following link(s) to access the dashboards:
-     - [View Dashboard India Sales on Tableau Public](https://public.tableau.com/app/profile/andrii.kachan/viz/IndiaSales_17352558238910/Dashboard1?publish=yes)
+     - [View Dashboard India Sales](https://public.tableau.com/app/profile/andrii.kachan/viz/IndiaSales_17352558238910/Dashboard1?publish=yes)
 
 5. **Interact with the Dashboard**:
    - Whether viewing locally or on Tableau Public, you can filter, drill down, and analyze the data as needed.
